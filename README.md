@@ -30,14 +30,3 @@ The feature importance chart below visually summarizes the impact of various fea
 - **Data Visualization**: Matplotlib for generating comprehensive plots and charts.
 - **Machine Learning**: Scikit-Learn for deploying regression models.
 
-## Getting Started
-
-1. **Clone the repository**: Secure a copy of the project on your local machine.
-2. **Environment Setup**:
-   - Verify the installation of Jupyter Notebook or utilize Google Colab for accessing the `.ipynb` file.
-3. **Execution Instructions**: Sequentially execute the notebook cells to navigate through the data handling and modeling phases.
-
-## Contribution
-
-Your expertise can further refine the model or methodologies employed in this project. Fork this repository, adjust the model, and submit a pull request to propose your enhancements.
-
